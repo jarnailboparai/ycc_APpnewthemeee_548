@@ -1,23 +1,23 @@
 @media (max-width: 1024px){
 	.logo{
-	padding:5% 0px 10%;
+	padding-top:28%;
 	}	
 }
 @media (max-width: 768px){
 	.logo{
-	padding:28% 0px 20%;
+	padding-top:42%;
 		}	
 }
 @media (max-width: 650px){
 	.logo {
-    padding-top:4%;
+    padding-top: 14%;
     width: 410px;
 	}
 }
 
 @media (max-width: 480px){
 	.logo{
-	padding:8% 0px 20%;
+	padding-top:40%;
 	width:370px;
 	}	
 }
@@ -26,10 +26,5 @@
 	.logo {
     padding-top: 25%;
     width: 262px;
-	}
-	.app_feature_list {
-		margin: 0 5% 0px;	}
-	.grid_menu{
-		width:320px;
 	}
 }
