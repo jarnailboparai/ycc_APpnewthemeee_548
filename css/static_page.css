@@ -7,7 +7,7 @@
 }
 .staticPage{
 	background:url(../images/title_bg.png);
-	margin:4% 2% 2%;
+	margin:4% auto 2%;
 	padding:3%;
 	/*width: 91%;*/
 	word-wrap: break-word;
@@ -71,4 +71,5 @@ a.item{
 	max-width: 5.5em;
 	max-height:none;
 }
+
 /* Social Media Page Setting Ends Here */
